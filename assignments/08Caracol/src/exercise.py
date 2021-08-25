@@ -5,7 +5,7 @@ def main():
 
     cm = (60*min*5.7)/10
 
-    print("Centrímetros recorridos:", cm)
+    print("Centímetros recorridos:", cm)
     
 if __name__ == '__main__':
     main()
